@@ -31,4 +31,4 @@ What you need to change here is this line :
 ```
 ExecStart=/home/pi/fan/fan --daemon 17 53 56
 ```
-First, change the path to match the directory where the fan program is. The first argument (--daemon) is used to make the program to run an endless loop (a daemon), the second argument (17) is the GPIO pin, 53 is the min threshold temperature and 56 is the max threshold temperature.
+First, change the path to match the directory where the fan program is. The first argument (--daemon) is used to make the program to run an endless loop (a daemon), the second argument (17) is the GPIO pin, 53(°C) is the min threshold temperature and 56(°C) is the max threshold temperature.
