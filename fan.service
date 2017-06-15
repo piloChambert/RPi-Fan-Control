@@ -1,0 +1,10 @@
+[Unit]
+Description=Fan daemon
+
+[Service]
+Type=simple
+ExecStart=/home/pi/fan/fan --daemon 17 53 56
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
