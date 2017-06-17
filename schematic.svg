@@ -15,7 +15,10 @@
    height="300"
    viewBox="0 0 132.29167 79.375005"
    version="1.1"
-   id="svg8">
+   id="svg8"
+   inkscape:export-filename="C:\Users\pilo\Documents\GitHub\RPi-Fan-Control\schematic.png"
+   inkscape:export-xdpi="96.789459"
+   inkscape:export-ydpi="96.789459">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="232.85683"
-     inkscape:cy="282.11855"
+     inkscape:zoom="4"
+     inkscape:cx="147.8516"
+     inkscape:cy="89.77201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -447,25 +450,35 @@
          id="tspan6864">2N7000</tspan></text>
     <text
        id="text6870"
-       y="277.40945"
-       x="34.238739"
-       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="273.37662"
+       x="44.830341"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan6868"
-         style="font-size:4.23333359px;stroke-width:0.26458335px"
-         y="277.40945"
-         x="34.238739"
-         sodipodi:role="line">200k</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458335px"
+         y="273.37662"
+         x="44.830341"
+         sodipodi:role="line">R2</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458335px"
+         y="278.66827"
+         x="44.830341"
+         sodipodi:role="line"
+         id="tspan6876">200k</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="30.269991"
-       y="258.88861"
-       id="text6874"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.861591"
+       y="253.53287"
+       id="text6882"><tspan
          sodipodi:role="line"
-         x="30.269991"
-         y="258.88861"
-         style="font-size:4.23333359px;stroke-width:0.26458335px"
-         id="tspan6872">10k</tspan></text>
+         x="40.861591"
+         y="253.53287"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458335px"
+         id="tspan6878">R1</tspan><tspan
+         id="tspan6880"
+         sodipodi:role="line"
+         x="40.861591"
+         y="258.82452"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458335px">200k</tspan></text>
   </g>
 </svg>
